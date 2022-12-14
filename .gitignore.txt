@@ -1,4 +1,0 @@
-/env_my_portfolio_site**
-*.code-workspace
-__pycache__
-db.sqlite3
